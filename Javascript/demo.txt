@@ -1,0 +1,6 @@
+Teaching Demo
+
+Topic: Array and Array Methods
+Demo Type: Class setting
+Audience: Already know HTML and CSS. They've just been introduced to Javascript. And environment was already set up. 
+Duration: 30-45mins
